@@ -5,3 +5,6 @@
 		AlertDialogHelper helper = new AlertDialogHelper(this, view);
 		final AlertDialog dialog =  helper.showBottomDialog();
 在下方全屏dialog
+
+## CustomerTextWatcher
+对EditText输入格式加限制（字母 数字）

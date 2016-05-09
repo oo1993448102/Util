@@ -34,3 +34,10 @@ imageview 拖拽 缩放
 支持双击缩放（有个bug 方形图片双击缩小）
 
 [ZoomTouchListener](https://github.com/oo1993448102/Util/blob/master/ZoomTouchListener.java)
+
+##ObjectConvertUtils  
+类型转换 供URL拼接使用
+
+支持Object 2 Map、UrlParams
+Map 2 UrlParams
+[ObjectConvertUtils]()

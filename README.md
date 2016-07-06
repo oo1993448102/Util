@@ -47,3 +47,8 @@ Map 2 UrlParams
 获取手机wifi、本地ip地址（ipv4）
 
 [IPHelper](https://github.com/oo1993448102/Util/blob/master/IPHelper.java)
+
+##PermissionUtils
+Android 6.0 权限控制 （小米 华为等自带控制 无效）
+
+[PermissionUtils](https://github.com/oo1993448102/Util/blob/master/PermissionUtils.java)
